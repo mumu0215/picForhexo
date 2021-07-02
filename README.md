@@ -1,0 +1,2 @@
+# picForhexo
+pic for hexo
